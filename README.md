@@ -7,5 +7,6 @@ The scope of these scripts is to monitor DASH Live Streaming on a minimal level.
  - Check if the dash referenced segments are downloadable.
  
  <h3>Prerequisites:</h3>
- - bc (Linux bc - An arbitrary precision calculator language);
+ 
+ - bc (Linux bc - An arbitrary precision calculator language) </br>
  - xmllint compiled with xpath
